@@ -23,4 +23,5 @@ Framework para processamento de imagens e visão computacional.
 * Converter RGB para Escala de Cinza utilizando média geométrica
 
 OBS: As transformações RBG, GBR, GRB, BGR, BRG apenas inverte as coordenadas das cores.
+
 OBS: As transformações CYM, CMY, YCM, YMC, MYC, MCY pega 255 menos as cores relativas.

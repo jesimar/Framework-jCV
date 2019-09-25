@@ -223,7 +223,7 @@ public class MainFrame extends JFrame{
         String names[] = {"Colorido", "Preto e Branco", "Escala de Cinza", 
                 "GBR", "GRB", "RBG", "BRG", "BGR", "Preto e Branco RND", "Cor RND", 
                 "Escala de Cinza RND", "CMY", "CYM", "YCM", "YMC", "MYC", "MCY",
-                "BW Média Geométrica", "SG Média Geométrica"};
+                "BW Média Geométrica", "SG Média Geométrica", "Transparente"};
         final JComboBox comboBoxColor = new JComboBox();
         comboBoxColor.setModel(new javax.swing.DefaultComboBoxModel(names));
         comboBoxColor.setPreferredSize(new Dimension(140, 25));        
